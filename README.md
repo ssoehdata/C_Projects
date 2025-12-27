@@ -3,6 +3,6 @@ Projects implemented using the C programming language
 
 ## Included: 
 
-### BasedDB
+### BasedDB 
 
 ![alt_text](https://github.com/ssoehdata/C_Learning/blob/main/C_logo.jpg)

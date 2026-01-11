@@ -1,4 +1,29 @@
+<div align="center">
+<!-- Title: -->
+  <!-- href="https://github.com/https://github.com/ssoehdata/FORTRAN/">  --> 
+    
+  </a>
+
+
 # BASEDDB
-Database project that will include the following features (work in progress): 
--cli interface 
+<!--![Fortran](https://a11ybadges.com/badge?logo=fortran)> -->
+
+</div>
+
+### Included Features: 
+
+
+<ul>
+    <li>CLI interface </li>   
+
+</ul>
+
+### Planned Features: 
+
+<ul>
+    <li>networking</li>   
+
+</ul>
+
+
 

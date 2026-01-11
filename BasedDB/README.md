@@ -1,2 +1,4 @@
-# C_Projects
-Projects implemented using the C programming language
+# BASEDDB
+Database project that will include the following features (work in progress): 
+-cli interface 
+

@@ -17,7 +17,7 @@ employee database to track basic employee data as well as tracking hours worked.
 be a command line interface (cli) using posix shell commands and utilities.
 #############################
 
-Features:  File verification  ....
+Features:  File verification  (define and give examples of how this is done)
 
 
 

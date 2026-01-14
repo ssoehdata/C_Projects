@@ -16,7 +16,7 @@ void print_usage(char *argv[ ]) {
 
 int main(int argc, char *argv[]) {
 
-        char *filepath = NULL;
+    char *filepath = NULL;
 	bool newfile = false;
 	int c;
 
@@ -72,14 +72,14 @@ int main(int argc, char *argv[]) {
     if (validate_db_header(dbfd, &dbhdr) == STATUS_ERROR) {
             printf("Failed to validate database header\n");
             return -1;
-}   
+    }   
 
 }
 
 	
 	// debug text (TODO:(stephen) remove later)
-	printf("Newfile: %d\n", newfile);
-	printf("Filepath: %s\n", filepath);
+	//printf("Newfile: %d\n", newfile);
+	//printf("Filepath: %s\n", filepath);
 
 	output_file(dbfd, dbhdr);	
 

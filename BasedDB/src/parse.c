@@ -72,6 +72,8 @@ int validate_db_header(int fd, struct dbheader_t **headerOut) {
 		return -1;
 	}
 
+    *headerOut =  header;
+
 }
 
 int create_db_header(int fd, struct dbheader_t **headerOut) {
